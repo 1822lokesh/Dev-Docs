@@ -149,13 +149,7 @@ console.log(sum(1, 2, 3, 4)); // Output: 10
 
 ```
 
-This is excellent. You have covered the "Async" logic perfectly, which is often the hardest part for beginners.
-
-Here is the complete Markdown file. I have formatted your text to match the professional style and **continued** with the remaining essential concepts (Ternary Operators, Optional Chaining, and Modules) that you need to master before touching React code.
-
-You can save this file as `02-javascript-advanced.md`.
-
----
+```
 
 # Advanced JavaScript for React
 
@@ -362,3 +356,4 @@ import MyHeader from './Header';
 
 ---
 
+```
